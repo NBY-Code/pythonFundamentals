@@ -1,0 +1,7 @@
+Bill Name : water bill
+Total Amount :180
+Create Date : 2024-04-11 18:57:09.064808Bill Name : Electricity bill
+Total Amount :270
+Create Date : 2024-04-11 18:57:09.064808Bill Name : Naturel Gas bill
+Total Amount :360
+Create Date : 2024-04-11 18:57:09.064808
